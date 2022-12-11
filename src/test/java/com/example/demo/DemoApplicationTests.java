@@ -10,14 +10,5 @@ class DemoApplicationTests {
 	void contextLoads() {
 	}
 
-	System.out.println("Test==========================");
-	System.out.println("Test==========================");
-	System.out.println("Test ")
-	//커밋 테스트
-
-//ㅇㄴㄹㄴㅇㄹㄴㅇㄹ
-//test
-	//test
-	//ipad test branch
 
 }
