@@ -9,7 +9,5 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
-
-//ipad test
+  //original
 }
