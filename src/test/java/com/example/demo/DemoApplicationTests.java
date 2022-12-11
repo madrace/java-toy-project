@@ -10,9 +10,5 @@ class DemoApplicationTests {
 	void contextLoads() {
 	}
 
-	//ipad account test
-	//test add
-
-	//ipad test branch
 
 }
