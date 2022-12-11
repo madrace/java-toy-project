@@ -9,10 +9,5 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
-
-<<<<<<< HEAD
-=======
+  //original
 }
-
->>>>>>> fe03e950c6eceda38e9d38ad850fc1fadc7b7569
